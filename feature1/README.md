@@ -1,3 +1,3 @@
 # Feature One
 
-This feature is initial requirement, but is become obsolete and may be removed.
+This feature is initial requirement, team has finished build and test is success.
